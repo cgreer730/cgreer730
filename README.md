@@ -1,0 +1,5 @@
+-Hi, I'm Caleb and I am very new to coding
+-I'd like to learn more
+-I like making practical software ideas, so I'm trying to actually create many of them
+-20 years old, USA
+-Cheers
